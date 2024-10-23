@@ -1,8 +1,17 @@
-Projeto do meu Portifólio Online! 
+# Portfólio Online
 
-1 - Linguagens: JavaScript. 
-2 - Ferramentas: HTML, CSS, JSON, GIT.
+Este é o meu portfólio online, onde apresento meus projetos e habilidades como desenvolvedor.
 
-Para acessar basta entrar no link: 
+## Tecnologias Utilizadas
+
+- **Linguagens**: JavaScript
+- **Ferramentas**: HTML, CSS, JSON, GIT
+
+## Acesso
+
+Para acessar o portfólio, clique no link abaixo:
+
+[Portfólio Online](https://gabrielsbarbosa.github.io/js-developer-portfolio/)
+
 
 
